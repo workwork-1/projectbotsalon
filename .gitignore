@@ -1,13 +1,2 @@
 # Игнорировать .env файлы
 .env
-.env.local
-*.env
-# Конфиденциальные данные
-secrets/
-keys/
-config/private.yaml
-
-# Системные файлы
-.DS_Store
-.idea/
-.vscode/
